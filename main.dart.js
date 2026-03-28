@@ -107489,7 +107489,7 @@ Cv(){var s=0,r=A.u(t.H),q=1,p=[],o=this,n,m,l,k,j,i
 var $async$Cv=A.o(function(a,b){if(a===1){p.push(b)
 s=q}for(;;)switch(s){case 0:q=3
 s=6
-return A.m($.Dc().a5O("province.json"),$async$Cv)
+return A.m($.Dc().a5O("assets/province.json"),$async$Cv)
 case 6:n=b
 m=B.N.bU(n)
 k=m.ght()
@@ -107516,7 +107516,7 @@ s=p}for(;;)switch(s){case 0:if(a==null){q=A.b([],t.SN)
 s=1
 break}p=4
 s=7
-return A.m($.Dc().a5O("ward.json"),$async$Cw)
+return A.m($.Dc().a5O("assets/ward.json"),$async$Cw)
 case 7:n=c
 m=B.N.bU(n)
 k=m.ght()
